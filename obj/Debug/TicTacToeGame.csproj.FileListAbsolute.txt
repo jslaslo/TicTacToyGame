@@ -1,0 +1,16 @@
+D:\Программы\VS\UdemyLern\HomeWork!\bin\Debug\HomeWork!.exe.config
+D:\Программы\VS\UdemyLern\HomeWork!\bin\Debug\HomeWork!.exe
+D:\Программы\VS\UdemyLern\HomeWork!\bin\Debug\HomeWork!.pdb
+D:\Программы\VS\UdemyLern\HomeWork!\obj\Debug\HomeWork!.csproj.AssemblyReference.cache
+D:\Программы\VS\UdemyLern\HomeWork!\obj\Debug\HomeWork!.csproj.SuggestedBindingRedirects.cache
+D:\Программы\VS\UdemyLern\HomeWork!\obj\Debug\HomeWork!.csproj.CoreCompileInputs.cache
+D:\Программы\VS\UdemyLern\HomeWork!\obj\Debug\HomeWork!.exe
+D:\Программы\VS\UdemyLern\HomeWork!\obj\Debug\HomeWork!.pdb
+D:\dergo\Documents\TicTacToyGame\obj\Debug\HomeWork!.csproj.AssemblyReference.cache
+D:\dergo\Documents\TicTacToyGame\obj\Debug\HomeWork!.csproj.SuggestedBindingRedirects.cache
+D:\dergo\Documents\TicTacToyGame\obj\Debug\HomeWork!.csproj.CoreCompileInputs.cache
+D:\dergo\Documents\TicTacToyGame\obj\Debug\HomeWork!.exe
+D:\dergo\Documents\TicTacToyGame\obj\Debug\HomeWork!.pdb
+D:\dergo\Documents\TicTacToyGame\bin\Debug\HomeWork!.exe.config
+D:\dergo\Documents\TicTacToyGame\bin\Debug\HomeWork!.exe
+D:\dergo\Documents\TicTacToyGame\bin\Debug\HomeWork!.pdb
